@@ -1,0 +1,47 @@
+table.header{
+   
+   color: blue;
+
+}
+
+body{
+    background-image: url(../photos/mall.jpg);
+    background-size: cover;
+}
+
+.uu
+{
+margin-left: 60px;
+
+
+}
+table.nav{
+    width: 1500px;
+background-color: paleturquoise;
+
+}
+.nav_bar{
+height: 300px;
+width: 200px;
+padding-left: 7px;
+background-color:paleturquoise;
+}
+.yy{
+    margin-top: 30px
+  
+}   
+.tt{
+    color:floralwhite;
+    height=820px ;
+    width=640px ;
+    
+}
+.pp{
+    height=820px ;
+    width=640px ;
+    margin-left: 80px;
+     padding:   60px;
+   
+    background-color:cornflowerblue;
+}
+    

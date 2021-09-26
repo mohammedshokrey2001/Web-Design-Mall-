@@ -1,0 +1,59 @@
+
+.uu:hover
+{
+    color: black;
+    background-color:rgb(192, 199, 199);
+   
+}
+.uu
+{
+    padding:15px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 120%;
+    margin-left: 60px;
+}
+table.nav{
+
+    width: 1570px;
+    background-color: rgb(228, 230, 233);
+
+
+}
+.p
+{
+    padding:10px;
+    margin-left: 400px;
+    min-height: 300px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+.main_work{
+   background-color: whitesmoke;
+   position:relative;
+   left: 200px;
+   bottom: -100px;
+   font-size: large;
+   width: 30%;
+
+}
+
+table.header{
+    background-color:white;
+    color: black;
+    
+}
+
+#tyt{
+width: 90%;
+
+}
+#img_card{
+position: relative;
+left:800px;
+bottom: 230px;
+
+}
