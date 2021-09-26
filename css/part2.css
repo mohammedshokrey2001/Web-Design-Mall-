@@ -1,0 +1,60 @@
+body
+{
+  background-image: url(../photos/Sharaf\ DG\ -\ store\ image-min.jpg);  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color:antiquewhite;
+    background-size: cover;
+}
+.marya{
+   background-color:darkorange;
+    height: 400px;
+    width: 400px;
+    top: 175px;
+    left: 570px;
+    position: absolute;
+    border-radius: 40px;
+   
+    
+    
+}
+.lina
+{
+  font-size: 85px;
+    right: 220px;
+    left: 50px;  
+    
+    
+    
+    
+}
+.mazen{
+    font-size: 30;
+    position: relative;
+    left: 20px;
+    
+}
+.mohamed{
+    position: relative;
+    left: 80;
+    border-radius: 60px;
+}
+.mohamed1{
+    position: relative;
+    left: 40px;
+    border-radius: 60px;
+}
+.uu{
+    
+    position: relative;
+    top: 5;
+    left: 20;
+     border-radius: 60px;
+    height: 30;
+    width: 90;
+    font-size: 20;
+}
+.ff{
+    position: relative;
+    left: 40px;
+}

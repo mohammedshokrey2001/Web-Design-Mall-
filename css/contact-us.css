@@ -1,0 +1,53 @@
+body{
+    background-color:aquamarine;   
+ }
+ .row{
+     background-color: antiquewhite;
+     width: 80%;
+     margin: 4% auto;
+     display: flex;
+     flex-wrap:wrap;
+     align-items: center;
+ }
+ .col{
+     
+     flex-basis: 25%;
+     text-align: center;
+ }
+ .marya{
+     height: 300px;
+     width: 300px;
+     
+ }
+ .lina{
+     height: 300px;
+     width: 300px;
+ }
+ .mazen{
+     height: 300px;
+     width: 300px;
+ }
+ .mohamed{
+     height: 300px;
+     width: 300px;
+ }
+ .col p{
+     margin: 20%;
+ }
+  .social a: hover{
+     background: #000;
+     color: #ffe501;
+     transform: translateY(-7px);
+ }
+ .ee{
+     font-size: 50px;
+     color: darkslategray;
+     margin-left: 600px;
+     margin-top: 30px;
+ }
+ h3{
+     font-size: 40px;
+ }
+ p{
+     font-size: 19px;
+ }

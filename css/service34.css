@@ -1,0 +1,46 @@
+body
+{
+    background-color: antiquewhite;
+}
+.uu:hover
+{
+    color:firebrick;
+    background-color:darkslategrey;
+
+}
+.uu
+{
+    color: firebrick;
+    padding:15px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 120%;
+    margin-left: 60px;
+}
+li
+{
+    font-size: 110%;
+}
+table.nav
+{
+    width: 1570px;
+    background-color: paleturquoise;
+}
+p
+{
+    color:teal;
+    text-align:center;
+    font-size: 250%;
+    font-weight: bold;
+}
+caption
+{
+    font-weight: bold;
+    font-size: 300%;
+    color:firebrick;
+}
+#tb
+{
+    border:3px solid teal;
+    border-collapse: collapse;
+}
